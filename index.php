@@ -109,7 +109,7 @@ if (@$data === TRUE) {
                 <ul class="nav" id="main-menu">
                     <li>
                         <?php
-                        echo " <li><a class='active-menu' href='index.php'> <img class = 'icons' src= './assets/img/expenses.png'> Expenses </a></li>";
+                        echo " <li><a class='active-menu' href='./php/index.php'> <img class = 'icons' src= './assets/img/expenses.png'> Expenses </a></li>";
                         ?>
                     </li>
                     <li>
