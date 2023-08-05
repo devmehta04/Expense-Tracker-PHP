@@ -1,4 +1,4 @@
-# Basic Expense Tracker
+# Expense Tracker
 
 This is a simple web-based expense tracker made using PHP. It allows users to add, edit, and delete their expenses, as well as view a summary of their expenses.
 
